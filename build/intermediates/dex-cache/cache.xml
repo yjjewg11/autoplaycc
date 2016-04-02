@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_8697ff51512aea02a085e0fef9faab296a31795d.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_eb198f32cb45d91b98aff9565f4faf1516ef014b.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f62f551e2736fa3c3328386881c99c6eb21fe433.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_530fc5760d9b226e91dcc705b1c57c71429c7dc3.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_e49397631e1df1994e75fb91428444f1b83eef69.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_b55084d2bf754bb8964b66cd9f73e09d3806c147.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_d2135e03ec31761a10eeb2d9160eeaed8ff4bcb0.jar" />
+    </item>
+    <item
+        jar="/Users/tanghongbin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/tanghongbin/Documents/work_wenjie_project/autoplaycc-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_67183ae50ecec7b238c6e790ff8ed06dd1fc7417.jar" />
+    </item>
+
+</items>
